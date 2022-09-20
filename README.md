@@ -1,4 +1,4 @@
-# uiux-take-home-assignment
+# Take home assignment for UI/UX Designer
 Below is a take home assignment before the interview of the position. You are required to:
 1. Understand the situation and use case. You may contact the interviewer for further clarification.
 2. Prepare the prototype or presentation with your most effective tools.
